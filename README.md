@@ -1,5 +1,5 @@
-# An Extension of PASSION
-The extension version:
+# Addressing Imbalanced Modal Incompleteness in Realistic Medical Image Segmentation via Hierarchical Gradient Alignment
+The extension version based on our PASSION:
 1. provide both 2D and 3D training code for MyoPS and BraTS datasets;
 2. rethink the uni-modal and multi-modal combination wise co-learning problem; 
 3. combine conflict-free meta learning with our preference-aware self-distillation;
